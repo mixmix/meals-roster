@@ -31,11 +31,10 @@ I would recommend being a little opinionated and _telling_ them you're going to 
     - also check about any **food requirements** (e.g. allergies, dietary restrictions)
 3. send it out!
 
-**Templates**: 
-  - email I sent - [invitation.md](invitation.md)
-  - meal roster - [meal_roster.csv](meal_roster.csv) | [google spreadsheet](https://docs.google.com/spreadsheets/d/1z3fQdPHAPE_X6cvOC9jl6Ul1aP13hEWBDHP2lE6KfFU/edit?usp=sharing)
-    - it's got blank dates in it, you'll put real dates in when the baby is born
-    - the online shops are New Zealand based ones
+Templates | .
+:---|---
+[`invitation.md`](invitation.md) | email I sent
+[`meal_roster.csv`](meal_roster.csv) / [google spreadsheet](https://docs.google.com/spreadsheets/d/1z3fQdPHAPE_X6cvOC9jl6Ul1aP13hEWBDHP2lE6KfFU/edit?usp=sharing) | it's got blank dates in it, you'll put real dates in when the baby is born
 
 **Notes**:
   - I had the invitation sent out about 3 weeks before the due date (because babies can and do arrive early!)
@@ -50,8 +49,9 @@ Keep in touch with one person in the family (probably the one not pregnant) to k
   - do it manually
   - OR use a fancy spreadsheet formula (you can see how I did it in the second tab of the [google spreadsheet](https://docs.google.com/spreadsheets/d/1z3fQdPHAPE_X6cvOC9jl6Ul1aP13hEWBDHP2lE6KfFU/edit?usp=sharing))
 
-**Templates**:
-  - email to announce go live - [go_live.md](go_live.md)
+Templates | .
+:---|---
+[`go_live.md`](go_live.md) | email to announce go live 
 
 
 
