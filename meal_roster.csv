@@ -1,16 +1,16 @@
 ,,Date,Name,Type of food (optional),,,
-,,,,,,Dates,
-Week 1,Mon,,,,,**HOST** will add dates and send an email when we're starting ,
-,Tues,,,,,"If we start e.g. on a Wednesday,  people who've been skipped can find another slot !",
-,Wed,,,,,,
-,Thurs,,,,,,
-,Fri,,,,,Food Delivery Options,
-,Sat,,,,,countdown.co.nz,supermarket that delivers
-,Sun,,,,,delivereasy.co.nz,delivers lots of take-away options from local restaurants
-Week 2,Mon,,,,,...please add to this list,
+,,,,,,Dietary needs,
+Week 1,Mon,,,,,**FOODS_TO_AVOID**,
 ,Tues,,,,,,
-,Wed,,,,,,
-,Thurs,,,,,,
+,Wed,,,,,Dates,
+,Thurs,,,,,**HOST** will add dates and send an email when we're starting ,
+,Fri,,,,,"If we start e.g. on a Wednesday,  people who've been skipped can find another slot !",
+,Sat,,,,,,
+,Sun,,,,,,
+Week 2,Mon,,,,,Food Delivery Options,
+,Tues,,,,,countdown.co.nz,supermarket that delivers
+,Wed,,,,,delivereasy.co.nz,delivers lots of take-away options from local restaurants
+,Thurs,,,,,...please add to this list,
 ,Fri,,,,,,
 ,Sat,,,,,Contact,
 ,Sun,,,,,Ask **HOST** if you have any questions (and don't want to bug the new parents):,
