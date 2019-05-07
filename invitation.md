@@ -7,7 +7,7 @@ To give them a helping hand from near and far, I’ve prepared this meal roster 
 Food that is always useful: easy snack food (nuts, fruit, cake, bread); foods high in protein (beans, lentils, tofu, egg, meat, muesli with nuts); things you can eat with one hand.
 
 If you do end up dropping it round in person, here are some handy hints for visiting new parents (replace ‘mother’ with ‘parents’ in this article).
-https://www.breastfeeding.asn.au/10-big-tips-visiting-new-baby-%E2%80%93-and-being-asked-back
+https://www.breastfeeding.asn.au/member-enews/feature-article/2014-09-01-000000/10-big-tips-visiting-new-baby-%E2%80%93-and-being-asked-back
 
 Their address is **FAMILY_ADDRESS**
 
